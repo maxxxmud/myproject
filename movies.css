@@ -1,0 +1,61 @@
+.head{
+   height: 300px;
+   width: 956px;
+   border:0px solid black;
+   margin:auto;
+   background-image: url(myfilms.png);
+   overflow: hidden;
+}
+
+.body{
+   height: auto;
+   width: 956px;
+   border:0px solid black;
+   margin:auto;
+
+}
+
+.buttom{
+ height: 80px;
+   width: 956px;
+   border:0px solid yellow;
+  padding-bottom: bottom;
+  overflow: hidden;
+
+}
+
+.hhh{
+   height: auto;
+   width: 956px;
+   border:0px solid red;
+   margin:auto;
+   background-image: url(myborder.jpg);
+   overflow: hidden;
+}
+body{
+background-color: #265C26;
+}
+
+.all{
+width:956px;
+height:500px;
+border:0px solid #7EC121;
+overflow: hidden;
+}
+
+.left{
+width:300px;
+height:423px;
+border:0px solid #7EC121;
+overflow: hidden;
+margin:25px;
+float:left;
+}
+
+.description{
+width:550px;
+height:423px;
+border:0px solid #7EC121;
+margin:25px;
+float:right;
+}

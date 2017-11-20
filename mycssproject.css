@@ -1,0 +1,99 @@
+body{
+background-color: #265C26;
+}
+
+.Makhmudjon{
+
+height: auto;
+width: 960px;
+border:0px solid red;
+margin:auto;
+}
+
+.header{
+   height: 540px;
+   width: 1500px;
+   border:0px solid yellow;
+   background-color:  #262626;
+   margin:auto;
+   overflow: hidden;
+}
+
+.header h1{
+font-family: SketchFlow Print;
+text-align: center;
+padding-top: 220px;
+font-size: 70px;
+color: #fff;
+ margin:auto;
+
+}
+
+.header p{
+font-family: SketchFlow Print;
+text-align: center;
+font-size: 50px;
+color: #fff;
+}
+
+
+.allinclude{
+height: 400;
+width: 960px;
+border: 0px solid white;
+background-image: url(just.jpg);
+overflow: hidden;
+ margin:auto;
+
+}
+
+.aboutme{
+height: 400px;
+width: 560px;
+border:0px solid #fff;
+float: left;
+
+
+}
+.me{
+	color: yellow;
+	text-align: center;
+	font-size: 25px
+
+}
+
+.picplace{
+height: 400px;
+width:395px;
+border:0px solid #fff;
+float: right;
+background-image: url(mypic.png);
+
+}
+
+.buttom{
+overflow: hidden;
+width: 960px;
+height: 120px;
+border: 1px solid #fff;
+}
+
+.idinform{
+	color: yellow;
+}
+
+.buttomtext{
+	font-family: SketchFlow Print;
+text-align: center;
+font-size: 50px;
+color: Black;
+z-index: 100;
+}
+.START{
+height: auto;
+width: 960px;
+border:1px solid red;
+margin:auto;
+overflow: hidden;
+}
+
